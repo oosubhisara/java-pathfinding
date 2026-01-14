@@ -2,7 +2,7 @@
 
 Pathfinding algorithm using Java and JavaFX
 
-<img src="java-pathfinding-screenshot.png" alt="Screenshot" width="400" />
+<img src="java-pathfinding-screenshot.png" alt="Screenshot" width="300" />
 
 ## Dependencies
 - Java
